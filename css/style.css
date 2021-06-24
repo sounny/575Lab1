@@ -1,0 +1,35 @@
+/* Stylesheet by Kristina V. Randrup, 2021 */
+/***** NAVBAR *****/
+.navbar-default {
+  background-color: #863ee3;
+  border-radius: 0;
+  background-image: none;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ebd122;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;
+}
+
+body {
+  		padding-top: 50px;
+  		font-family: 'Lato', serif;
+  		background-color: #B0E0E6;
+  		color: #242424;
+	}
