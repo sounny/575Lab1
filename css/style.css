@@ -28,8 +28,63 @@
 }
 
 body {
-  		padding-top: 50px;
-  		font-family: 'Lato', serif;
-  		background-color: #B0E0E6;
-  		color: #242424;
-	}
+  padding-top: 15px;
+  font-family: 'Times', serif;
+  background-color: #d9fdd9;
+  color: #242424;	
+}
+
+#mapid {
+    height: 650px;
+    width: 80%;
+    display: inline-block;
+}
+
+#panel {
+    width: 16%;
+    height: 50%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    background-color: #bdfcbd;
+    line-height: 42px;
+    height: 650px;
+}
+
+.range-slider {
+    width: 50%;
+}
+
+#forward {
+    float: right;
+}
+
+#reverse {
+    float: left;
+
+}
+
+div.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+.sequence-control-container {
+    width: 350px;
+    height: 30px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+.legend-control-container {
+    width: 150px;
+    height: 100px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+}

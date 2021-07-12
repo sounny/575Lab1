@@ -1,0 +1,275 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.3303, 47.6032]
+          },
+          "properties": {
+            "name": "Seattle",
+	    "pop2000": 564092,
+	    "pop2010": 610630, 
+	    "pop2015": 684451, 
+  	    "pop2016": 704352, 
+	    "pop2017": 724745, 
+	    "pop2018": 744955, 
+	    "pop2019": 753675, 
+	    "pop2021": 776555
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-117.4250, 47.6589]
+          },
+          "properties": {
+            "name": "Spokane",
+	    "pop2000": 196917,
+	    "pop2010": 209525, 
+	    "pop2015": 213272, 
+  	    "pop2016": 215973,
+	    "pop2017": 217108,
+	    "pop2018": 219190, 
+	    "pop2019": 222081, 
+	    "pop2021": 227579
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4594, 47.2414]
+          },
+          "properties": {
+            "name": "Tacoma",
+	    "pop2000": 193878,
+	    "pop2010": 198230, 
+	    "pop2015": 207948, 
+  	    "pop2016": 211277,
+	    "pop2017": 213418,
+	    "pop2018": 216279,
+	    "pop2019": 217827, 
+	    "pop2021": 221259
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.6000, 45.6333]
+          },
+          "properties": {
+            "name": "Vancouver",
+	    "pop2000": 146574, 
+	    "pop2010": 167595, 
+	    "pop2015": 172860, 
+  	    "pop2016": 174826, 
+	    "pop2017": 175673, 
+	    "pop2018": 183012,
+	    "pop2019": 184463, 
+	    "pop2021": 187615
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.1909, 47.6137]
+          },
+          "properties": {
+            "name": "Bellevue",
+	    "pop2000": 112480,
+	    "pop2010": 128357, 
+	    "pop2015": 139820, 
+  	    "pop2016": 141400,
+	    "pop2017": 144444,
+	    "pop2018": 147599, 
+	    "pop2019": 148164, 
+	    "pop2021": 150364
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2269, 47.3828]
+          },
+          "properties": {
+            "name": "Kent",
+	    "pop2000": 80609,
+	    "pop2010": 119067, 
+	    "pop2015": 126952, 
+  	    "pop2016": 127514,
+	    "pop2017": 128458,
+	    "pop2018": 129618, 
+	    "pop2019": 132319, 
+	    "pop2021": 133489
+          }        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.1959, 47.9791]
+          },
+          "properties": {
+            "name": "Everett",
+	    "pop2000": 96294,
+	    "pop2010": 103173, 
+	    "pop2015": 108010, 
+  	    "pop2016": 109043,
+	    "pop2017": 110079,
+	    "pop2018": 111262, 
+	    "pop2019": 111475, 
+	    "pop2021": 112249
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.1953, 47.4867]
+          },
+          "properties": {
+            "name": "Renton",
+	    "pop2000": 51485,
+	    "pop2010": 92351, 
+	    "pop2015": 100242, 
+  	    "pop2016": 100953,
+	    "pop2017": 101379,
+	    "pop2018": 102153, 
+	    "pop2019": 101751, 
+	    "pop2021": 101679
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-117.2394, 47.6733]
+          },
+          "properties": {
+            "name": "Spokane Valley",
+	    "pop2000": 80869,
+	    "pop2010": 90047, 
+	    "pop2015": 94919, 
+  	    "pop2016": 96340,
+	    "pop2017": 97847,
+	    "pop2018": 99703, 
+	    "pop2019": 101060, 
+	    "pop2021": 104564
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.3347, 47.3152]
+          },
+          "properties": {
+            "name": "Federal Way",
+	    "pop2000": 85173,
+	    "pop2010": 89556, 
+	    "pop2015": 95171, 
+  	    "pop2016": 96757,
+	    "pop2017": 96690,
+	    "pop2018": 97044, 
+	    "pop2019": 96289, 
+	    "pop2021": 95415
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-120.5000, 46.6000]
+          },
+          "properties": {
+            "name": "Yakima",
+	    "pop2000": 83469,
+	    "pop2010": 91637, 
+	    "pop2015": 93701, 
+  	    "pop2016": 93986,
+	    "pop2017": 93667,
+	    "pop2018": 93884, 
+	    "pop2019": 93637, 
+	    "pop2021": 93815
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2034, 47.6755]
+          },
+          "properties": {
+            "name": "Kirkland",
+	    "pop2000": 45026,
+	    "pop2010": 80866, 
+	    "pop2015": 87281, 
+  	    "pop2016": 87701,
+	    "pop2017": 88630,
+	    "pop2018": 89557, 
+	    "pop2019": 93010, 
+	    "pop2021": 99212
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4781, 48.7549]
+          },
+          "properties": {
+            "name": "Bellingham",
+	    "pop2000": 67817,
+	    "pop2010": 81297, 
+	    "pop2015": 85146, 
+  	    "pop2016": 87574,
+	    "pop2017": 89045,
+	    "pop2018": 90665, 
+	    "pop2019": 92314, 
+	    "pop2021": 96014
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-119.1170, 46.2026]
+          },
+          "properties": {
+            "name": "Kennewick",
+	    "pop2000": 59424,
+	    "pop2010": 74447, 
+	    "pop2015": 78896, 
+  	    "pop2016": 80454,
+	    "pop2017": 81607,
+	    "pop2018": 82943, 
+	    "pop2019": 84347, 
+	    "pop2021": 87649
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.1240, 47.6749]
+          },
+          "properties": {
+            "name": "Redmond",
+	    "pop2000": 45638,
+	    "pop2010": 54731, 
+	    "pop2015": 60598, 
+  	    "pop2016": 62458,
+	    "pop2017": 64291,
+	    "pop2018": 67678, 
+	    "pop2019": 71929, 
+	    "pop2021": 80915
+          }
+        },
+      { "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.2147, 47.3022]
+          },
+          "properties": {
+            "name": "Auburn",
+	    "pop2000": 55472,
+	    "pop2010": 70560, 
+	    "pop2015": 77006, 
+  	    "pop2016": 77472,
+	    "pop2017": 80776,
+	    "pop2018": 81905, 
+	    "pop2019": 81464, 
+	    "pop2021": 80814
+          }
+         }
+       ]
+     }
